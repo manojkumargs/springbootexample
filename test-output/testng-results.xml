@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-31T22:57:11 IST" name="Suite" finished-at="2023-08-31T22:57:16 IST" duration-ms="5337">
+    <groups>
+    </groups>
+    <test started-at="2023-08-31T22:57:11 IST" name="Test" finished-at="2023-08-31T22:57:16 IST" duration-ms="5337">
+      <class name="test.FoodieAppApplicationTests">
+        <test-method signature="register()[pri:1, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:11 IST" name="register" finished-at="2023-08-31T22:57:14 IST" duration-ms="2981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="login()[pri:2, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:14 IST" name="login" finished-at="2023-08-31T22:57:14 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login1()[pri:3, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:14 IST" name="login1" finished-at="2023-08-31T22:57:14 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="login2()[pri:4, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:14 IST" name="login2" finished-at="2023-08-31T22:57:14 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method signature="Rest_Post1()[pri:5, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:14 IST" name="Rest_Post1" finished-at="2023-08-31T22:57:14 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_Post1 -->
+        <test-method signature="Rest_Post2()[pri:6, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:14 IST" name="Rest_Post2" finished-at="2023-08-31T22:57:14 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_Post2 -->
+        <test-method signature="Rest_Put()[pri:7, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:14 IST" name="Rest_Put" finished-at="2023-08-31T22:57:15 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_Put -->
+        <test-method signature="Rest_GetAll()[pri:8, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Rest_GetAll" finished-at="2023-08-31T22:57:15 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_GetAll -->
+        <test-method signature="Rest_GetById()[pri:9, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Rest_GetById" finished-at="2023-08-31T22:57:15 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_GetById -->
+        <test-method signature="Rest_Delete()[pri:10, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Rest_Delete" finished-at="2023-08-31T22:57:15 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_Delete -->
+        <test-method signature="Rest_Delete1()[pri:11, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Rest_Delete1" finished-at="2023-08-31T22:57:15 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest_Delete1 -->
+        <test-method signature="Dish_Post1()[pri:12, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Dish_Post1" finished-at="2023-08-31T22:57:15 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_Post1 -->
+        <test-method signature="Dish_Post2()[pri:13, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Dish_Post2" finished-at="2023-08-31T22:57:15 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_Post2 -->
+        <test-method signature="Dish_Put()[pri:14, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:15 IST" name="Dish_Put" finished-at="2023-08-31T22:57:16 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_Put -->
+        <test-method signature="Dish_GetAll()[pri:15, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Dish_GetAll" finished-at="2023-08-31T22:57:16 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_GetAll -->
+        <test-method signature="Dish_GetById()[pri:16, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Dish_GetById" finished-at="2023-08-31T22:57:16 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_GetById -->
+        <test-method signature="Dish_Delete()[pri:17, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Dish_Delete" finished-at="2023-08-31T22:57:16 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_Delete -->
+        <test-method signature="Dish_Delete1()[pri:18, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Dish_Delete1" finished-at="2023-08-31T22:57:16 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dish_Delete1 -->
+        <test-method signature="Order_Post1()[pri:19, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Order_Post1" finished-at="2023-08-31T22:57:16 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_Post1 -->
+        <test-method signature="Order_Post2()[pri:20, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Order_Post2" finished-at="2023-08-31T22:57:16 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_Post2 -->
+        <test-method signature="Order_Put()[pri:21, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Order_Put" finished-at="2023-08-31T22:57:16 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_Put -->
+        <test-method signature="Order_GetAll()[pri:22, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Order_GetAll" finished-at="2023-08-31T22:57:16 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_GetAll -->
+        <test-method signature="Order_GetById()[pri:23, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="Order_GetById" finished-at="2023-08-31T22:57:16 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_GetById -->
+        <test-method signature="User_GetByName()[pri:24, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="User_GetByName" finished-at="2023-08-31T22:57:16 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_GetByName -->
+        <test-method signature="User_GetByCategory()[pri:25, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="User_GetByCategory" finished-at="2023-08-31T22:57:16 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_GetByCategory -->
+        <test-method signature="User_GetByLocation()[pri:26, instance:test.FoodieAppApplicationTests@4c5ae43b]" started-at="2023-08-31T22:57:16 IST" name="User_GetByLocation" finished-at="2023-08-31T22:57:16 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_GetByLocation -->
+      </class> <!-- test.FoodieAppApplicationTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
